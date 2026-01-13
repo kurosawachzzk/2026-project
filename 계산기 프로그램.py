@@ -6,6 +6,6 @@ minus = a1 - a2
 multi = a1 * a2
 div = a1 / a2
 print("두 수를 더한 값 : ", plus)
-print("두 수를 뺀 값 : ", minus)``
+print("두 수를 뺀 값 : ", minus)
 print("두 수를 곱한 값 : ", multi)
 print("두 수를 나눈 값 : ", div)
